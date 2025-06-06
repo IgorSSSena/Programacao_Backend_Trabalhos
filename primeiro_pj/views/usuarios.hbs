@@ -1,0 +1,9 @@
+{{> navbar}}
+<h1>{{title}}</h1>
+<table>
+  <tr><th>Nome</th><th>Email</th></tr>
+  {{#each usuarios}}
+    <tr><td>{{nome}}</td><td>{{email}}</td></tr>
+  {{/each}}
+</table>
+{{> footer}}
