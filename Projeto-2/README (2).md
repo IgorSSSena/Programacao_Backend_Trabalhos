@@ -70,9 +70,9 @@ express-login-mvc/
 
 ## ⚙️ Instalação e Execução
 
-### 1. Clone o repositório
+### 1.Repositório
 ```bash
-git clone https://github.com/seu-usuario/express-login-mvc.git
+ https://github.com/IgorSSSena/Programacao_Backend_Trabalhos/tree/main/Projeto-2
 ```
 
 ### 2. Instale as dependências
